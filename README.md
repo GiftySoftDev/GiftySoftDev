@@ -18,6 +18,14 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
   > _“A user interface is like a joke; if you have to explain it, it's not that good.”_
 
 ---
+### 🏅 Badges & Recognitions
+
+<p>
+  <img src="https://developers.google.com/profile/badges/developer" alt="Google Developer Badge" height="45"/>
+  <img src="https://www.womentechmakers.com/static/badges/wtm_badge.svg" alt="Women Techmakers Badge" height="45"/>
+</p>
+
+---
 
 ### 🔧 Tech Stack
 
