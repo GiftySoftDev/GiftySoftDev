@@ -58,7 +58,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 ---
 
 ### 🚀 Featured Projects
-- [CyberSafe_Therapy](https://github.com/GiftinTech/CyberSafe_Therapy)  
+- [CyberSafe_Therapy](https://github.com/GiftinTech/CyberSafe_Therapy-README)  
   A modern web platform for secure mental health therapy sessions.  
   [Live Demo](https://ai-cybersafe-therapy.netlify.app/)  
   **🔒 Private Repo:** DM me for access!
