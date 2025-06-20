@@ -115,6 +115,10 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/giftintech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 > _“The journey to full-stack is a bit like a Kdrama—full of plot twists, but always worth it.”_
 
 Let’s connect, learn and build something impactful together. DMs and collaborations are always welcome! 🌈
