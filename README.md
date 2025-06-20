@@ -109,6 +109,12 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 
 ---
 
+### 📊 My WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 💬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giftintech/)
@@ -116,8 +122,6 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
 
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 > _“The journey to full-stack is a bit like a Kdrama—full of plot twists, but always worth it.”_
 
