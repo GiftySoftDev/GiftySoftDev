@@ -113,11 +113,11 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   23 hrs 49 mins  ████████████████▓░░░░░░░░   66.62 %
-TypeScript   6 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-CSS          1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-JSON         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-SQL          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+JavaScript   16 hrs 16 mins  █████████████░░░░░░░░░░░░   52.47 %
+TypeScript   7 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+SQL          2 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+JSON         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Python       1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
