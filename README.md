@@ -1,13 +1,13 @@
 ### 👋 Hello, World! I’m **Gifty** 🦋
 
-Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that make a real impact. Currently, I'm exploring the world of TypeScript and gearing up for full-stack development – it's an exciting journey, and I'm loving every bit of it!
+Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that make a real impact. Currently, I'm exploring the world of ReactJS. and building an AI-powered portfolio. I'm also gearing up for full-stack development – it's an exciting journey, and I'm loving every bit of it!
 
 ---
 
 ### 🌟 About Me
 
-- 💡 I love building with **HTML**, **CSS** and **JavaScript**
-- 🔭 Currently exploring **TypeScript** and **AI Integration** to projects and code.
+- 💡 I love building with **AI**
+- 🔭 Currently exploring **ReactJS** and **AI/LLMs Integration** to projects and code.
 - I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50 Cybersecurity course offered by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development**
 - 🤝 Always open to collaborating on team projects
