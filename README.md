@@ -142,8 +142,9 @@ You can find my writings and interactive code demos across these platforms:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
 
 ---
+#### Favourite Quote:
 
-> _“The journey to full-stack is a bit like a Kdrama—full of plot twists, but always worth it.”_
+> _“Courage is not the absence of fear, it is the presence of fear yet the will to go on.”_ — **Nelson Mandela**
 
 Let’s connect, learn and build something impactful together. DMs and collaborations are always welcome! 🌈
 
