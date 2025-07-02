@@ -45,6 +45,8 @@ PS. _To better understand how computers process information and learn computatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" alt="Supabase" width="40" height="40"/>
+  
 </p>
 
 ---
@@ -55,6 +57,7 @@ PS. _To better understand how computers process information and learn computatio
 ![Claude](https://img.shields.io/badge/Claude-6b4eae?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-37FFB4?style=for-the-badge&logo=heart&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 
 ---
