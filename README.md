@@ -1,6 +1,8 @@
 ### 👋 Hello, World! I’m **Gifty** 🦋
 
-Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that drives business growth. Currently, I just built and shipped my first ReactJS project, an AI-powered portfolio. I'm also gearing up for full-stack development, NodeJS in line – it's an exciting journey, and I'm loving every bit of it!
+Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that drive business growth. 
+
+Currently, I just built and shipped my first ReactJS project, an AI-powered portfolio. I'm also gearing up for full-stack development, NodeJS in line – it's an exciting journey, and I'm loving every bit of it!
 
 ![Professional Picture of me](https://github.com/user-attachments/assets/72f2d6ec-b53e-48f8-8db5-93dd8f89aea2)
 _Yepp, that's me and I'm so glad you're getting to know me :)_
