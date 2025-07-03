@@ -129,7 +129,7 @@ JavaScript   53 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-#### 📈 My Language Breakdown (Visual)
+#### 📉 My Language Breakdown (Visual)
 
 ![WakaTime Language Pie Chart](https://wakatime.com/share/@4d5c9c83-fe2e-4da0-89a0-3ae26f95140c/6e5e65e0-d072-4fd3-89d2-3e6ae3dc2db8.svg")
 
