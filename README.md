@@ -144,7 +144,9 @@ You can find my writings and interactive code demos across these platforms:
 ![Women Techsters Software Development Certification](https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406)
 
 <img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer"/>
+
 ![Scrimba JavaScript Tutorial](https://us.docworkspace.com/d/sIIa9prA5sI-XwwY?sa=601.1074)
+
 ![freeCodeCamp Responsive Web Design Certification](https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41)
 
 
