@@ -2,6 +2,9 @@
 
 Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that drives business growth. Currently, I just built and shipped my first ReactJS project, an AI-powered portfolio. I'm also gearing up for full-stack development, NodeJS in line – it's an exciting journey, and I'm loving every bit of it!
 
+![Professional Picture of me](https://github.com/user-attachments/assets/72f2d6ec-b53e-48f8-8db5-93dd8f89aea2)
+_Yepp, that's me and I'm so glad you're getting to know me :)_
+
 PS. _To better understand how computers process information and learn computational thinking, I'm taking the CS50 Introduction to Computer Science course by Harvard University_ 
 
 ---
@@ -143,7 +146,16 @@ You can find my writings and interactive code demos across these platforms:
 ### 👩‍🎓🎓 Licences & Certifications
 ![Women Techsters Software Development Certification](https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406)
 
+![Harvard CS50 Introduction to Cybersecurity Certificate](https://github.com/user-attachments/assets/dfdc7d3b-1164-45f6-a41c-132012839a7a)
+
+
+![ALX Professional Foundations Certificate](https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b)
+
+
 <img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer"/>
+
+![University of Helsinki Elements of AI Certificate](https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6)
+
 
 ![Scrimba JavaScript Tutorial](https://us.docworkspace.com/d/sIIa9prA5sI-XwwY?sa=601.1074)
 
