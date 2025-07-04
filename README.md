@@ -6,7 +6,7 @@ Currently, I just built and shipped my first ReactJS project, an AI-powered port
 
 ![Professional Picture of me](https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true)
 <p align="center">
-  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="500" height="500"/>
+  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="700" height="500"/>
 </p>
 _Yepp, that's me and I'm so glad you're getting to know me :)_
 
@@ -154,25 +154,33 @@ You can find my writings and interactive code demos across these platforms:
 ---
 
 ### 👩‍🎓🎓 Licences & Certifications
-![Women Techsters Software Development Certification](https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406" alt="Women Techsters Software Development Certification" width="600" height="400"/>/>
+</p>
 
-![Harvard CS50 Introduction to Cybersecurity Certificate](https://github.com/user-attachments/assets/dfdc7d3b-1164-45f6-a41c-132012839a7a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfdc7d3b-1164-45f6-a41c-132012839a7a" alt="Harvard CS50 Introduction to Cybersecurity Certificate" width="600" height="400"/>/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b" alt="ALX Professional Foundations Certificate" width="600" height="400"/>/>
+</p>
 
-![ALX Professional Foundations Certificate](https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer Certificate" width="600" height="400"/>/>
+</p>
 
-![UN Volunteer Certificate](https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6" alt="University of Helsinki Elements of AI Certificate" width="600" height="400"/>/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52879375-8b1e-4c64-a29b-1a41e346d47f" alt="Scrimba JavaScript Tutorial" width="600" height="400"/>/>
+</p>
 
-![University of Helsinki Elements of AI Certificate](https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6)
-
-
-![Scrimba JavaScript Tutorial](https://github.com/user-attachments/assets/52879375-8b1e-4c64-a29b-1a41e346d47f)
-
-
-![freeCodeCamp Responsive Web Design Certification](https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41" alt="freeCodeCamp Responsive Web Design Certification" width="600" height="400"/>/>
+</p>
 
 ### 💬 Let’s Connect!
 
