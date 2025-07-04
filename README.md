@@ -4,7 +4,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 
 Currently, I just built and shipped my first ReactJS project, an AI-powered portfolio. I'm also gearing up for full-stack development, NodeJS in line – it's an exciting journey, and I'm loving every bit of it!
 
-![Professional Picture of me](https://github.com/user-attachments/assets/72f2d6ec-b53e-48f8-8db5-93dd8f89aea2)
+![Professional Picture of me](https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true)
 _Yepp, that's me and I'm so glad you're getting to know me :)_
 
 PS. _To better understand how computers process information and learn computational thinking, I'm taking the CS50 Introduction to Computer Science course by Harvard University_ 
