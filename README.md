@@ -131,11 +131,11 @@ PS. _To better understand how computers process information and learn computatio
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   53 hrs 9 mins   ██████████████████████▒░░   89.34 %
-CSS          4 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Bash         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-TSConfig     20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   50 hrs 27 mins  ██████████████████████▒░░   89.42 %
+CSS          4 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Markdown     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Bash         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TSConfig     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
