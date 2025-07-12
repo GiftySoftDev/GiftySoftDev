@@ -175,49 +175,35 @@ You can find my writings and interactive code demos across these platforms:
 
 ### 🌟 Recommendations
 
-<table>
-  <tr>
-    <td>
-      <blockquote>
-        “I've known Gift for years and can confidently say she is one of the most brilliant and resilient minds I know. She’s always eager to learn, adapt, and grow. As a front-end developer, she consistently delivers high-quality work with a strong focus on usability, performance, and design integrity. I highly recommend her to any team committed to excellence.”
-        <br><br>
-        <b>— Praise Imafidon, AppSec Engineer</b>
-      </blockquote>
-    </td>
-    <td>
-      <blockquote>
-        “I wholeheartedly recommend Gift, an exceptional individual whose admirable personality truly stands out. When given the opportunity to lead, she effortlessly brings everyone along with her, ensuring that each team member feels valued and supported. Gift has an innate ability to connect with others, consistently looking out for their well-being and fostering a collaborative environment. Her inclusive approach and unwavering dedication make her an outstanding leader and a genuine asset to any team.”
-        <br><br>
-        <b>— Blessing Ogbebi, ASRHR Facilitator</b>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <blockquote>
-        “Working alongside Gift Egbonyi on our ALX team has been an inspiring experience. As a Front-End Web Developer, she consistently brings creativity, technical precision, and a collaborative spirit to every task. Gift has a natural eye for detail and an impressive ability to turn ideas into beautifully functional interfaces. Her commitment to clean, efficient code and user-friendly design makes her a standout teammate. What truly sets Gift apart is her eagerness to learn, her willingness to support others, and her calm, focused presence even under pressure. She’s a valuable asset to any team, and I can’t wait to see where her skills take her next!”
-        <br><br>
-        <b>— Zainab Quadri, Aerospace Engineer</b>
-      </blockquote>
-    </td>
-    <td>
-      <blockquote>
-        “Had the pleasure of being on the same team with Gift. She’s hands-down one of the most consistent and dedicated people I’ve worked with. She always shows up being prepared, focused, and ready to contribute. Whether it was tackling tough assignments or supporting the team, Gift brought a determination and work ethic that really stood out. She doesn’t only just get things done but she follows through every single time. Anyone looking for someone reliable, driven, and genuinely solid would be lucky to have her on their team.”
-        <br><br>
-        <b>— Precious Elegalam, Backend Developer</b>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <blockquote>
-        “In school, Gift was a well-balanced and intelligent student. Always very kind, gentle and peaceful. In the days after school, I've seen her work very hard and diligently on building herself and career, taking on a number of tech courses and carrying out amazing projects with impressive speed, and dare I say, ease. She tackles difficulties lightheartedly and bravely, and is always super optimistic. Anyone looking to work with Gift, would be greatly pleased to realise that they would have made one of the best decisions of their lives, by choosing her.”
-        <br><br>
-        <b>— Joy Anosike</b>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+
+<blockquote>
+“I've known Gift for years and can confidently say she is one of the most brilliant and resilient minds I know. She’s always eager to learn, adapt, and grow. As a front-end developer, she consistently delivers high-quality work with a strong focus on usability, performance, and design integrity. I highly recommend her to any team committed to excellence.”<br><br>
+<b>— Praise Imafidon, AppSec Engineer</b>
+</blockquote>
+
+
+<blockquote>
+“I wholeheartedly recommend Gift, an exceptional individual whose admirable personality truly stands out. When given the opportunity to lead, she effortlessly brings everyone along with her, ensuring that each team member feels valued and supported. Gift has an innate ability to connect with others, consistently looking out for their well-being and fostering a collaborative environment. Her inclusive approach and unwavering dedication make her an outstanding leader and a genuine asset to any team.”<br><br>
+<b>— Blessing Ogbebi, ASRHR Facilitator</b>
+</blockquote>
+
+
+<blockquote>
+“Working alongside Gift Egbonyi on our ALX team has been an inspiring experience. As a Front-End Web Developer, she consistently brings creativity, technical precision, and a collaborative spirit to every task. Gift has a natural eye for detail and an impressive ability to turn ideas into beautifully functional interfaces. Her commitment to clean, efficient code and user-friendly design makes her a standout teammate. What truly sets Gift apart is her eagerness to learn, her willingness to support others, and her calm, focused presence even under pressure. She’s a valuable asset to any team, and I can’t wait to see where her skills take her next!”<br><br>
+<b>— Zainab Quadri, Aerospace Engineer</b>
+</blockquote>
+
+
+<blockquote>
+“Had the pleasure of being on the same team with Gift. She’s hands-down one of the most consistent and dedicated people I’ve worked with. She always shows up being prepared, focused, and ready to contribute. Whether it was tackling tough assignments or supporting the team, Gift brought a determination and work ethic that really stood out. She doesn’t only just get things done but she follows through every single time. Anyone looking for someone reliable, driven, and genuinely solid would be lucky to have her on their team.”<br><br>
+<b>— Precious Elegalam, Backend Developer</b>
+</blockquote>
+
+
+<blockquote>
+“In school, Gift was a well-balanced and intelligent student. Always very kind, gentle and peaceful. In the days after school, I've seen her work very hard and diligently on building herself and career, taking on a number of tech courses and carrying out amazing projects with impressive speed, and dare I say, ease. She tackles difficulties lightheartedly and bravely, and is always super optimistic. Anyone looking to work with Gift, would be greatly pleased to realise that they would have made one of the best decisions of their lives, by choosing her.”<br><br>
+<b>— Joy Anosike</b>
+</blockquote>
 
 ---
 
@@ -227,7 +213,6 @@ You can find my writings and interactive code demos across these platforms:
 [![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/giftintech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
 
----
 #### Favourite Quote:
 
 > _“Courage is not the absence of fear, it is the presence of fear yet the will to go on.”_ — **Nelson Mandela**
