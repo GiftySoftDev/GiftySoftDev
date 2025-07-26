@@ -5,7 +5,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend develop
 Currently, I just built and shipped my first ReactJS project, an AI-powered portfolio. I'm also gearing up for full-stack development—enrolled in Jonas Schmedtmann's NodeJS bootcamp on Udemy—it's an exciting journey and I'm loving every bit of it!
 
 <p align="center">
-  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="350"/>
+  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="500"/>
 </p>
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
