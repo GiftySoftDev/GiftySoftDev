@@ -22,20 +22,33 @@ PS. _To better understand how computers process information and learn computatio
 - 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
 - I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development**
-- Life lately (click thumbnail to watch video):
-  <br>
-_Ps. you'll be redirected to Loom if you click on the thumbnail😊_
-<p align="center">
-  <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3" target="_blank" rel="noreferrer">
-    <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800">
-  </a>
-</p>
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
 - 🌸 Pronouns: **She/Her**
 - ⚡ When I’m not coding, I’m probably volunteering, swimming, spending time with loved ones, binge-watching **Anime** || **Kdramas** 🫰, || lost in animations 🎨
 - 💡 Favourite quote:  
   > _“A user interface is like a joke; if you have to explain it, it's not that good.”_
+- Life lately building two full-stack projects with different languages (click thumbnail to watch video):
+  <br>
+_Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
+<table align="center">
+  <tr>  
+  <th>Python + Django</th>
+  <th>Node + Express</th>
+  </tr>
+  <tr>   
+    <td> 
+      <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.loom.com/share/58a0da4a63d84b05b4e6e0a0d25a6200" target="_blank" rel="noreferrer">
+        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the video" width="800">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🏅 Badges & Recognitions
