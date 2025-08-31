@@ -1,6 +1,6 @@
 ### 👋 Hello, World! I’m **Gifty** 🦋
 
-Hey there! Glad I caught your interest.😊 My name is Gifty, a frontend developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that drive business growth. 
+Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that drive business growth. 
 
 Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant that helps Nigerian students seeking admission into a Nigerian university simplify their admission journey. I'm using Python and Django for the backend and React + TypeScript + TailwindCSS for the frontend. 
 
