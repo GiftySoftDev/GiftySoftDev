@@ -12,7 +12,7 @@ I also just completed Jonas Schmedtmann's NodeJS bootcamp on Udemy—it was an e
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
 
-PS. _To better understand how computers process information and learn computational thinking, I'm taking the CS50 Introduction to Computer Science course by Harvard University_ 
+PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Introduction to Artificial Intelligence With Python course by Harvard University_ 
 
 ---
 
@@ -20,7 +20,7 @@ PS. _To better understand how computers process information and learn computatio
 
 - 💡 I love building with **AI**
 - 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
-- I'm also a student of **Backend Development** at alx_africa and I'm taking the CS50x Introduction to Computer Science course by Harvard University.
+- I just completed the **Backend Development** 4-months program at alx_africa & the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development**
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
@@ -28,7 +28,8 @@ PS. _To better understand how computers process information and learn computatio
 - ⚡ When I’m not coding, I’m probably volunteering, swimming, spending time with loved ones, binge-watching **Anime** || **Kdramas** 🫰, || lost in animations 🎨
 - 💡 Favourite quote:  
   > _“A user interface is like a joke; if you have to explain it, it's not that good.”_
-- Life lately building two full-stack projects with different languages (click thumbnail to watch video):
+- Life lately 🦋 _Collaborating with [Hamzat](https://github.com/Blackburn0/) to build [Swapo](https://github.com/Blackburn0/Swapo/) for our CS50x Introduction to Computer Science final project_
+- Built two full-stack projects last month with different languages (click thumbnail to watch video):
   <br>
 _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
 <table align="center">
