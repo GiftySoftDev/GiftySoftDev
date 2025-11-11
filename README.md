@@ -1,6 +1,13 @@
 ### 👋 Hello, World! I’m **Gifty** 🦋
 
-Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack developer who loves bringing creative ideas to life on the web. I'm all about building seamless, user-friendly experiences that drive business growth. 
+<img width="6250" height="1875" alt="image" src="https://github.com/user-attachments/assets/4efab7d9-f7fc-4073-a9d6-a915748abf90" />
+
+
+Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack developer and AI Automation Expert who loves bringing creative ideas to life on the web. I'm all about building seamless, smarter, user-friendly experiences that drive business growth and reduces manual processes.
+
+<img width="4000" height="2531" alt="image" src="https://github.com/user-attachments/assets/7d89922e-fea5-499d-a002-145bfdec7ebd" />
+
+[Call me](https://calendly.com/egbonyigiftvicky), I'm available right now.
 
 Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant that helps Nigerian students seeking admission into a Nigerian university simplify their admission journey. I'm using Python and Django for the backend and React + TypeScript + TailwindCSS for the frontend. 
 
@@ -12,7 +19,7 @@ I also just completed Jonas Schmedtmann's NodeJS bootcamp on Udemy—it was an e
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
 
-PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Introduction to Artificial Intelligence With Python course by Harvard University_ 
+PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Artificial Intelligence With Python course by Harvard University_ 
 
 ---
 
@@ -21,7 +28,7 @@ PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's In
 - 💡 I love building with **AI**
 - 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
 - I just completed the **Backend Development** 4-months program at alx_africa & the CS50x Introduction to Computer Science course by Harvard University.
-- 🛠 I'm Keen on all things **Full-stack Development** and **AI/MI** Integration
+- 🛠 I'm Keen on all things **Full-stack Development** and **AI/MI** Automation & Integration
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
 - 🌸 Pronouns: **She/Her**
@@ -74,6 +81,7 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Nextjs"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
@@ -97,6 +105,14 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>AI Automation</strong></td>
+    <td>
+      <img width="80" height="80" alt="n8n logo" src="https://github.com/user-attachments/assets/caa0b6df-e647-4840-9599-76b2c4171155" />
+      <img src="https://cdn.brandfetch.io/idVHU5hl7_/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1690469454303" alt="make.com logo" width="80" height="80" />
     </td>
   </tr>
   <tr>
