@@ -1,11 +1,11 @@
 ### 👋 Hello, World! I’m **Gifty** 🦋
 
-<img width="6250" height="1875" alt="image" src="https://github.com/user-attachments/assets/4efab7d9-f7fc-4073-a9d6-a915748abf90" />
+<img width="6250" height="1875" alt="image" src="https://github.com/user-attachments/assets/4efab7d9-f7fc-4073-a9d6-a915748abf90" loading="lazy" />
 
 
 Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack developer and AI Automation Expert who loves bringing creative ideas to life on the web. I'm all about building seamless, smarter, user-friendly experiences that drive business growth and reduces manual processes.
 
-<img width="4000" height="2531" alt="image" src="https://github.com/user-attachments/assets/7d89922e-fea5-499d-a002-145bfdec7ebd" />
+<img width="4000" height="4000" alt="image" src="https://github.com/user-attachments/assets/7d89922e-fea5-499d-a002-145bfdec7ebd" loading="lazy" />
 
 [Call me](https://calendly.com/egbonyigiftvicky), I'm available right now.
 
@@ -14,7 +14,7 @@ Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant 
 I also just completed Jonas Schmedtmann's NodeJS bootcamp on Udemy—it was an exciting, knowledge-packed journey and I loved every bit of it!
 
 <p align="center">
-  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="500"/>
+  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
 </p>
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
@@ -47,12 +47,12 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
   <tr>   
     <td> 
       <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800">
+        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the video" width="800" loading="lazy" >
       </a>
     </td>
     <td>
       <a href="https://www.loom.com/share/58a0da4a63d84b05b4e6e0a0d25a6200" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the video" width="800">
+        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the video" width="800" loading="lazy" >
       </a>
     </td>
   </tr>
@@ -76,13 +76,13 @@ _Ps. you'll be redirected to Loom if you click on either of the thumbnail😊_
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" loading="lazy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" loading="lazy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" loading="lazy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" loading="lazy" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Nextjs"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Nextjs" loading="lazy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite" loading="lazy" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
     </td>
