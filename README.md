@@ -168,6 +168,10 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 ---
 
 ### 🚀 Featured Projects
+- [Swapo](https://github.com/Swapo-Org/Swapo)
+  Swapo is a modern progressive web app skill-swapping platform that connects people who want to exchange skills and learn from each other. <br>
+  [Live Demo](https://swapo-skills.onrender.com/) - Opens only on mobile/tablet device
+  
 - [Eduwaka AI Assitant - Guidance Counsellor for JAMBITES](https://github.com/GiftinTech/Eduwaka_AI_Assistant)  
   EduWaka is an AI-powered web platform that helps Nigerian students, seeking admission into higher institution, simplify their   university admission journey. It provides tools to search institutions, explore courses, check eligibility, estimate fees and AI chatbot, all in one place. <br>
   [Live Demo](https://eduwaka-ai-assistant.onrender.com/)  
@@ -179,13 +183,12 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 - [Next Generation AI Portfolio README](https://github.com/GiftinTech/Next-Generation-AI-Portfolio-README/)  
   A next generation AI portfolio. Stand out and level up your portfolio with futuristic themes!  
   [Live Demo](https://ai-portfolio-project.netlify.app/)  
-  **🔒 Private Repo:** DM me for access!
+  **🔒 Private Repo:** [DM me](https://www.linkedin.com/in/gift-egbonyi) for access!
   
 - [CyberSafe_Therapy README](https://github.com/GiftinTech/CyberSafe_Therapy-README/)  
   A modern web platform for secure mental health therapy sessions.  
   [Live Demo](https://ai-cybersafe-therapy.netlify.app/)  
-  **🔒 Private Repo:** DM me for access!
-
+  **🔒 Private Repo:**  [DM me](https://www.linkedin.com/in/gift-egbonyi) for access!
 
 - [Loan Calculator](https://github.com/GiftinTech/Loan-Calculator)  
   A user-friendly web app to quickly calculate loan repayments and interest.
@@ -195,10 +198,6 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 
 - [RPS Game](https://github.com/GiftinTech/RPS-Game)  
   A classic Rock-Paper-Scissors game, built for fun and learning.
-
-- [Client Counter App](https://github.com/GiftinTech/Client-Counter-App)  
-  Effortlessly count and manage client entries in real time.
-
 ---
 
 ### 🤝 Soft Skills
