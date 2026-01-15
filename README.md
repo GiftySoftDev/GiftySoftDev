@@ -27,7 +27,7 @@ PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Ar
 
 - 💡 I love building with **AI**
 - 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
-- I just completed the **Backend Development** 4-months program at alx_africa & the CS50x Introduction to Computer Science course by Harvard University.
+-  **Backend Development** @ alx_africa & the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development** and **AI/MI** Automation & Integration
 - 🤝 Always open to collaborating on team projects
 - 💌 You can reach me at: **egbonyigiftvicky@gmail.com**
@@ -214,23 +214,6 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 
 ---
 
-### 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiftinTech&show_icons=true&theme=radical" alt="Gifty's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiftinTech&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiftinTech&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiftinTech&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
-
 ### 📊 My Coding Activity (WakaTime Stats)
 <!--START_SECTION:waka-->
 
@@ -288,6 +271,20 @@ You can find my writings and interactive code demos across these platforms:
 ### 🌟 Recommendations
 <sub>👇 Click this arrow or the text below to expand and read each recommendation!</sub>
 
+ <blockquote>
+<details>
+   
+  <summary>
+   "Gift is a fantastic collaborator and an incredibly dependable teammate. 
+  </summary>
+  <p>
+    While working together on Swapo, she consistently demonstrated strong problem-solving skills, clear communication, and a genuine commitment to delivering quality work. She was proactive, supportive, and a pleasure to work with. Any team would be lucky to have her, and I highly recommend her for collaborative, impact-driven projects."
+  </p>
+</details>
+— <b>Hamzat Hamzat, Software Eeveloper | Backend Specialist</b>
+  </blockquote>
+
+ <blockquote>
  <blockquote>
 <details>
    
@@ -372,6 +369,29 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giftintech/)
 [![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/giftintech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
+
+---
+
+### 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiftinTech&theme=radical" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiftinTech&theme=radical" alt="Most Used Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftinTech&theme=radical" alt="GitHub Activity"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiftinTech&theme=radical" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GiftinTech&theme=radical" alt="Commits" height="180"/>
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftinTech&theme=tokyonight" alt="Profile Summary"/>
+</p> -->
+
 
 #### Favourite Quote:
 
