@@ -69,6 +69,12 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 
 - [Google Developer Badge](https://developers.google.com/profile/badges/profile/created-profile)
 - [Women Techmakers Badge](https://developers.google.com/profile/badges/community/wtm/member)
+<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User Badge" width="50" height="50" />
+</a>&nbsp;&nbsp;
+<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/speedster" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/speedster/badge.svg" alt="Speedster Badge" width="50" height="50" />
+</a>
 
 ---
 
