@@ -224,11 +224,11 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   3 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
-TypeScript       3 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
-Bash             2 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-PHP              2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-HTML             37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+TypeScript       3 hrs 26 mins         ██████████▒░░░░░░░░░░░░░░   41.01 %
+Blade Template   2 hrs 39 mins         ████████░░░░░░░░░░░░░░░░░   31.83 %
+PHP              1 hr 17 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+Bash             42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+HTML             7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
