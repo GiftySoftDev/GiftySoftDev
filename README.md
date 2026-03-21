@@ -14,7 +14,7 @@ Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant 
 I also just completed CS50x, it was an exciting, knowledge-packed journey and I loved every bit of it!
 
 <p align="center">
-  <img src="https://github.com/GiftinTech/images/blob/main/previews/Brand%20image.png?raw=true" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/GiftinTech/images/refs/heads/main/previews/IMG_3024.jpeg" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
 </p>
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
