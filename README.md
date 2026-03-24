@@ -14,7 +14,7 @@ Currently, building **Eduwaka**, a **Full-Stack project**. It's an AI Assistant 
 I also just completed CS50x, it was an exciting, knowledge-packed journey and I loved every bit of it!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GiftinTech/images/refs/heads/main/previews/IMG_3024.jpeg" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/GiftySoftDev/images/refs/heads/main/previews/IMG_3024.jpeg" alt="Professional Picture of me" width="900" height="400" loading="lazy" />
 </p>
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
@@ -48,17 +48,17 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
   <tr>   
     <td> 
       <a href="https://www.loom.com/share/7ceecd08e0634ae6819841f0f2c1d966?sid=d0962882-b481-4fb1-902f-4daf0e2db1e3" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the Loom video" width="800" loading="lazy" >
+        <img src="https://github.com/GiftySoftDev/images/blob/main/videos/20250828_232853.png?raw=true" alt="Watch the Loom video" width="800" loading="lazy" >
       </a>
     </td>
     <td> 
       <a href="https://youtu.be/0o8dSW-YCPY" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/previews/cs50x-yt.png?raw=true" alt="Watch the YouTube video" width="800" loading="lazy" >
+        <img src="https://github.com/GiftySoftDev/images/blob/main/previews/cs50x-yt.png?raw=true" alt="Watch the YouTube video" width="800" loading="lazy" >
       </a>
     </td>
     <td>
       <a href="https://www.loom.com/share/58a0da4a63d84b05b4e6e0a0d25a6200" target="_blank" rel="noreferrer">
-        <img src="https://github.com/GiftinTech/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the Loom video" width="800" loading="lazy" >
+        <img src="https://github.com/GiftySoftDev/images/blob/main/videos/20250831_133356.png?raw=true" alt="Watch the Loom video" width="800" loading="lazy" >
       </a>
     </td>
   </tr>
@@ -181,31 +181,31 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
   Swapo is a modern progressive web app skill-swapping platform that connects people who want to exchange skills and learn from each other. <br>
   [Live Demo](https://swapo-skills.onrender.com/) - Opens only on mobile/tablet device
   
-- [Eduwaka AI Assitant - Guidance Counsellor for JAMBITES](https://github.com/GiftinTech/Eduwaka_AI_Assistant)  
+- [Eduwaka AI Assitant - Guidance Counsellor for JAMBITES](https://github.com/GiftySoftDev/Eduwaka_AI_Assistant)  
   EduWaka is an AI-powered web platform that helps Nigerian students, seeking admission into higher institution, simplify their   university admission journey. It provides tools to search institutions, explore courses, check eligibility, estimate fees and AI chatbot, all in one place. <br>
   [Live Demo](https://eduwaka-ai-assistant.onrender.com/)  
   
-- [buyAgain e-commerce](https://github.com/GiftinTech/buyAgain_e-commerce)  
+- [buyAgain e-commerce](https://github.com/GiftySoftDev/buyAgain_e-commerce)  
    buyAgain is full-stack e-commerce site with a simple admin dashboard built with MERN stack, TypeScript, Tailwindcss and Vite.  
   [Live Demo](https://buyagain-e-commerce.onrender.com/)
   
-- [Next Generation AI Portfolio README](https://github.com/GiftinTech/Next-Generation-AI-Portfolio-README/)  
+- [Next Generation AI Portfolio README](https://github.com/GiftySoftDev/Next-Generation-AI-Portfolio-README/)  
   A next generation AI portfolio. Stand out and level up your portfolio with futuristic themes!  
   [Live Demo](https://ai-portfolio-project.netlify.app/)  
   **🔒 Private Repo:** [DM me](https://www.linkedin.com/in/gift-egbonyi) for access!
   
-- [CyberSafe_Therapy README](https://github.com/GiftinTech/CyberSafe_Therapy-README/)  
+- [CyberSafe_Therapy README](https://github.com/GiftySoftDev/CyberSafe_Therapy-README/)  
   A modern web platform for secure mental health therapy sessions.  
   [Live Demo](https://ai-cybersafe-therapy.netlify.app/)  
   **🔒 Private Repo:**  [DM me](https://www.linkedin.com/in/gift-egbonyi) for access!
 
-- [Loan Calculator](https://github.com/GiftinTech/Loan-Calculator)  
+- [Loan Calculator](https://github.com/GiftySoftDev/Loan-Calculator)  
   A user-friendly web app to quickly calculate loan repayments and interest.
 
-- [Lead Tracker Magnet](https://github.com/GiftinTech/Lead-Tracker-Magnet)  
+- [Lead Tracker Magnet](https://github.com/GiftySoftDev/Lead-Tracker-Magnet)  
   Keep track of leads efficiently with a sleek, intuitive tracker.
 
-- [RPS Game](https://github.com/GiftinTech/RPS-Game)  
+- [RPS Game](https://github.com/GiftySoftDev/RPS-Game)  
   A classic Rock-Paper-Scissors game, built for fun and learning.
 ---
 
@@ -252,11 +252,11 @@ You can find my writings and interactive code demos across these platforms:
 ### 👩‍🎓🎓 Licences & Certifications
 <table align="center">
 <tr>
-    <td><img alt="CS50x Introduction to Computer Science" src="https://github.com/GiftinTech/images/blob/main/previews/CS50x-certificate.png?raw=true" alt="CS50x Certificate" width="400" height="400" />
+    <td><img alt="CS50x Introduction to Computer Science" src="https://github.com/GiftySoftDev/images/blob/main/previews/CS50x-certificate.png?raw=true" alt="CS50x Certificate" width="400" height="400" />
 </td>
   <td><img alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" alt="ALX Backend Certificate" width="400" height="400" />
 </td>
-  <td><img src="https://github.com/GiftinTech/images/blob/main/previews/Udemy%20Node%20Cert.jpg?raw=true" alt="Udemy Certificate for Jonas Schmedtmann Node.js Bootcamp" width="400" height="400" /></td>
+  <td><img src="https://github.com/GiftySoftDev/images/blob/main/previews/Udemy%20Node%20Cert.jpg?raw=true" alt="Udemy Certificate for Jonas Schmedtmann Node.js Bootcamp" width="400" height="400" /></td>
   </tr>
   
   <tr>
@@ -375,8 +375,8 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 
 ### 💬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giftintech/)
-[![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/giftintech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gift-egbonyi/)
+[![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/gifty_softdev?s=21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
 
 ---
@@ -398,7 +398,7 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 </p>
 
 <!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftinTech&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftySoftDev&theme=tokyonight" alt="Profile Summary"/>
 </p> -->
 
 
@@ -409,6 +409,6 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 Let’s connect, learn and build something impactful together. DMs and collaborations are always welcome! 🌈
 
 <!---
-GiftinTech/GiftinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GiftySoftDev/GiftySoftDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
