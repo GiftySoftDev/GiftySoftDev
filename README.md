@@ -68,7 +68,10 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 ### 🏅 Badges & Recognitions
 
 - [Google Developer Badge](https://developers.google.com/profile/badges/profile/created-profile)
+- [Chrome DevTools User Badge](https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user)
+- [Chrome DevTools Speedster Badge](https://developers.google.com/profile/badges/activity/chrome-devtools/speedster)
 - [Women Techmakers Badge](https://developers.google.com/profile/badges/community/wtm/member)
+
 <a href="https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user" target="_blank">
   <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User Badge" width="50" height="50" />
 </a>&nbsp;&nbsp;
