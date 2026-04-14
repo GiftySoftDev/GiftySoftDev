@@ -26,7 +26,7 @@ PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Ar
 ### 🌟 About Me
 
 - 💡 I love building with **AI**
-- 🔭 Currently building with **MERN Stack** and Integrating **AI/LLMs** to projects.
+- 🔭 Currently exploring **Mobile App Developement (React Native Expo)** and Integrating **AI/LLMs** to projects.
 -  **Backend Development** @ alx_africa & the CS50x Introduction to Computer Science course by Harvard University.
 - 🛠 I'm Keen on all things **Full-stack Development** and **AI/MI** Automation & Integration
 - 🤝 Always open to collaborating on team projects
@@ -35,7 +35,7 @@ PS. _To enhance my knowledge of programming with AI/MI, I'm taking the CS50's Ar
 - ⚡ When I’m not coding, I’m probably volunteering, swimming, spending time with loved ones, binge-watching **Anime** || **Kdramas** 🫰, || lost in animations 🎨
 - 💡 Favourite quote:  
   > _“A user interface is like a joke; if you have to explain it, it's not that good.”_
-- Life lately 🦋 _Finished Collaborating with [Hamzat](https://github.com/Blackburn0/) to build [Swapo](https://github.com/Swapo-Org/Swapo) for our CS50x Introduction to Computer Science final project_
+- Life lately 🦋 **Learning React Native**. _Finished Collaborating with [Hamzat](https://github.com/Blackburn0/) to build [Swapo](https://github.com/Swapo-Org/Swapo) for our CS50x Introduction to Computer Science final project_
 - Built three full-stack projects with different languages (click thumbnail to watch video):
   <br>
 _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊_
