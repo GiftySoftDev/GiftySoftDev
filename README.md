@@ -227,11 +227,11 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 9 mins          ██████████░░░░░░░░░░░░░░░   40.19 %
-JSON         1 hr 53 mins          ████████▓░░░░░░░░░░░░░░░░   35.17 %
-TypeScript   47 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-TSConfig     17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Markdown     13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+TypeScript   3 hrs 37 mins         ███████████░░░░░░░░░░░░░░   43.96 %
+JavaScript   2 hrs 9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+JSON         1 hr 55 mins          ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+TSConfig     17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Markdown     13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
