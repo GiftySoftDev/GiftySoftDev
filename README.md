@@ -14,7 +14,7 @@ Currently, building **[Eduwaka](https://eduwaka.onrender.com/)**, a **Full-Stack
 I also just completed React Native (Expo) course, it was an exciting, knowledge-packed journey and I loved every bit of it!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GiftySoftDev/images/refs/heads/main/previews/IMG_3024.jpeg" alt="Professional Picture of me" width="900" height="700" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/GiftySoftDev/images/refs/heads/main/previews/IMG_3024.jpeg" alt="Professional Picture of me" width="900" height="900" loading="lazy" />
 </p>
 
 _Yepp, that's me and I'm so glad you're getting to know me :)_
