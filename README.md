@@ -65,19 +65,32 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 </table>
 
 ---
-### 🏅 Badges & Recognitions
 
-- [Google Developer Badge](https://developers.google.com/profile/badges/profile/created-profile)
-- [Chrome DevTools User Badge](https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user)
-- [Chrome DevTools Speedster Badge](https://developers.google.com/profile/badges/activity/chrome-devtools/speedster)
-- [Women Techmakers Badge](https://developers.google.com/profile/badges/community/wtm/member)
+### 💼 Experience
 
-<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user" target="_blank">
-  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User Badge" width="50" height="50" />
-</a>&nbsp;&nbsp;
-<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/speedster" target="_blank">
-  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/speedster/badge.svg" alt="Speedster Badge" width="50" height="50" />
-</a>
+#### Full-Stack Developer @ Galaxy Quote LLC *(Sep 2025 – Dec 2025)*
+
+* Refactored and optimized a React + TypeScript application, improving performance and UI responsiveness.
+* Integrated payment processing using Square SDK through a Ruby on Rails backend.
+* Implemented email automation with Mailgun to streamline customer communication.
+* Redesigned the quote request flow into a multi-step experience, significantly improving completion rates.
+* Enhanced both customer and admin dashboards for better quote management.
+
+#### Web Developer @ Drive Society *(Dec 2025 – Present)*
+
+* Upgraded and refined a Squarespace website with a strong focus on branding, user experience, and visual consistency.
+* Built and optimized key pages, including homepage and service offerings.
+* Set up a digital storefront and ensured responsive, production-ready delivery.
+
+#### Web Developer @ Zetakree Biotech *(Apr 2025 – Aug 2025)*
+
+* Designed and launched a modern company website that improved user engagement.
+* Implemented UI/UX enhancements and SEO optimizations to increase visibility and traffic.
+
+#### Web Developer @ Junckcycle *(Jan 2025 – Mar 2025)*
+
+* Developed front-end features that improved user engagement and conversion rates.
+* Optimized website performance and maintained code quality through Git-based workflows.
 
 ---
 
@@ -211,75 +224,7 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
 
 - [RPS Game](https://github.com/GiftySoftDev/RPS-Game)  
   A classic Rock-Paper-Scissors game, built for fun and learning.
----
-
-### 🤝 Soft Skills
-
-- Teamwork & Collaboration
-- Effective Communication
-- Adaptability
-- Problem-solving
-- Time Management
-- Emotional Intelligence
-- Creativity
-- Leadership
-- Critical Thinking
-
----
-
-### 📊 My Coding Activity (WakaTime Stats)
-<!--START_SECTION:waka-->
-
-```txt
-Python       50 mins               ████████████░░░░░░░░░░░░░   47.50 %
-TypeScript   43 mins               ██████████░░░░░░░░░░░░░░░   40.32 %
-Bash         13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-```
-
-<!--END_SECTION:waka-->
-#### 📉 My Language Breakdown (Visual)
-
-![WakaTime Language Pie Chart](https://wakatime.com/share/@4d5c9c83-fe2e-4da0-89a0-3ae26f95140c/6e5e65e0-d072-4fd3-89d2-3e6ae3dc2db8.svg")
-
----
-### ✍️ My Digital Journal: Writings & Demos
-You can find my writings and interactive code demos across these platforms:
-
-* **Medium:** My thoughts on broader tech topics and insights. [Read my articles here](https://medium.com/@giftegbonyi)
-* **DEV.to:** Beginner-friendly tutorials and in-depth guides. [Explore my tutorials here](https://dev.to/giftysoftdev)
-* **CodePen:** Interactive front-end demos and code experiments. [Check out my pens here](https://codepen.io/GiftySoftDev)
-
----
-
-### 👩‍🎓🎓 Licences & Certifications
-<table align="center">
-<tr>
-   <td><img alt="Al Fluency Framework & Foundations" src="https://raw.githubusercontent.com/GiftySoftDev/images/refs/heads/main/previews/AI%20Fluency%20Cert.png" width="400" height="400" />
-</td>
-    <td><img alt="CS50x Introduction to Computer Science" src="https://github.com/GiftySoftDev/images/blob/main/previews/CS50x-certificate.png?raw=true" width="400" height="400" />
-</td>
- 
-  <td><img alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" alt="ALX Backend Certificate" width="400" height="400" />
-</td>
-  </tr>
   
-  <tr>
-      <td><img src="https://github.com/GiftySoftDev/images/blob/main/previews/Udemy%20Node%20Cert.jpg?raw=true" alt="Udemy Certificate for Jonas Schmedtmann Node.js Bootcamp" width="400" height="400" /></td>
-     <td><img src="https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406" alt="Women Techsters Software Development Certification" width="400" height="400"/></td>
-     <td><img src="https://github.com/user-attachments/assets/dfdc7d3b-1164-45f6-a41c-132012839a7a" alt="Harvard CS50 Introduction to Cybersecurity Certificate" width="400" height="400"/></td> 
-  </tr>
-
-<tr>
-       <td><img src="https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b" alt="ALX Professional Foundations Certificate" width="400" height="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer Certificate" width="400" height="400"/></td>
-  <td><img src="https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6" alt="University of Helsinki Elements of AI Certificate" width="400" height="400"/></td>
-</tr>
-<tr>
-    <td><img src="https://github.com/user-attachments/assets/52879375-8b1e-4c64-a29b-1a41e346d47f" alt="Scrimba JavaScript Tutorial" width="400" height="400"/></td>
-  <td><img src="https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41" alt="freeCodeCamp Responsive Web Design Certification" width="400" height="400"/></td>
-</tr>
-</table>
-
 ---
 
 ### 🌟 Recommendations
@@ -378,11 +323,73 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 
 ---
 
-### 💬 Let’s Connect!
+### 👩‍🎓🎓 Licences & Certifications
+<table align="center">
+<tr>
+   <td><img alt="Al Fluency Framework & Foundations" src="https://raw.githubusercontent.com/GiftySoftDev/images/refs/heads/main/previews/AI%20Fluency%20Cert.png" width="400" height="400" />
+</td>
+    <td><img alt="CS50x Introduction to Computer Science" src="https://github.com/GiftySoftDev/images/blob/main/previews/CS50x-certificate.png?raw=true" width="400" height="400" />
+</td>
+ 
+  <td><img alt="ALX Backend Certification" src="https://github.com/user-attachments/assets/6f8e0cef-3969-426e-9ca6-e1441151db16" alt="ALX Backend Certificate" width="400" height="400" />
+</td>
+  </tr>
+  
+  <tr>
+      <td><img src="https://github.com/GiftySoftDev/images/blob/main/previews/Udemy%20Node%20Cert.jpg?raw=true" alt="Udemy Certificate for Jonas Schmedtmann Node.js Bootcamp" width="400" height="400" /></td>
+     <td><img src="https://github.com/user-attachments/assets/541cd6c8-464a-448e-953b-ec8959ab1406" alt="Women Techsters Software Development Certification" width="400" height="400"/></td>
+     <td><img src="https://github.com/user-attachments/assets/dfdc7d3b-1164-45f6-a41c-132012839a7a" alt="Harvard CS50 Introduction to Cybersecurity Certificate" width="400" height="400"/></td> 
+  </tr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gift-egbonyi/)
-[![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/gifty_softdev?s=21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
+<tr>
+       <td><img src="https://github.com/user-attachments/assets/fce27d69-8ec4-43f6-af6b-095bba71382b" alt="ALX Professional Foundations Certificate" width="400" height="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7085f93c-0773-4bb1-b75e-eb3a34a048c7" alt="UN Volunteer Certificate" width="400" height="400"/></td>
+  <td><img src="https://github.com/user-attachments/assets/36f0c12c-984e-4d02-af2c-7ce465d1b0a6" alt="University of Helsinki Elements of AI Certificate" width="400" height="400"/></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/user-attachments/assets/52879375-8b1e-4c64-a29b-1a41e346d47f" alt="Scrimba JavaScript Tutorial" width="400" height="400"/></td>
+  <td><img src="https://github.com/user-attachments/assets/2be79583-def1-4da8-aabc-afc4bf586d41" alt="freeCodeCamp Responsive Web Design Certification" width="400" height="400"/></td>
+</tr>
+</table>
+
+---
+
+### 🏅 Badges & Recognitions
+
+- [Google Developer Badge](https://developers.google.com/profile/badges/profile/created-profile)
+- [Chrome DevTools User Badge](https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user)
+- [Chrome DevTools Speedster Badge](https://developers.google.com/profile/badges/activity/chrome-devtools/speedster)
+- [Women Techmakers Badge](https://developers.google.com/profile/badges/community/wtm/member)
+
+<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/chrome-devtools-user" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User Badge" width="50" height="50" />
+</a>&nbsp;&nbsp;
+<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/speedster" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/speedster/badge.svg" alt="Speedster Badge" width="50" height="50" />
+</a>
+
+---
+
+### ✍️ My Digital Journal: Writings & Demos
+You can find my writings and interactive code demos across these platforms:
+
+* **Medium:** My thoughts on broader tech topics and insights. [Read my articles here](https://medium.com/@giftegbonyi)
+* **DEV.to:** Beginner-friendly tutorials and in-depth guides. [Explore my tutorials here](https://dev.to/giftysoftdev)
+* **CodePen:** Interactive front-end demos and code experiments. [Check out my pens here](https://codepen.io/GiftySoftDev)
+
+---
+
+### 🤝 Soft Skills
+
+- Teamwork & Collaboration
+- Effective Communication
+- Adaptability
+- Problem-solving
+- Time Management
+- Emotional Intelligence
+- Creativity
+- Leadership
+- Critical Thinking
 
 ---
 
@@ -405,6 +412,35 @@ Any team would be lucky to have her. I wholeheartedly recommend Gift for any bac
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiftySoftDev&theme=tokyonight" alt="Profile Summary"/>
 </p> -->
+
+---
+
+### 📊 My Coding Activity (WakaTime Stats)
+<!--START_SECTION:waka-->
+
+```txt
+Python       50 mins               ████████████░░░░░░░░░░░░░   47.50 %
+TypeScript   43 mins               ██████████░░░░░░░░░░░░░░░   40.32 %
+Bash         13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+```
+
+<!--END_SECTION:waka-->
+
+
+#### 📉 My Language Breakdown (Visual)
+
+![WakaTime Language Pie Chart](https://wakatime.com/share/@4d5c9c83-fe2e-4da0-89a0-3ae26f95140c/6e5e65e0-d072-4fd3-89d2-3e6ae3dc2db8.svg")
+
+---
+
+### 💬 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gift-egbonyi/)
+[![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://x.com/gifty_softdev?s=21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egbonyigiftvicky@gmail.com)
+
+---
+
 
 
 #### Favourite Quote:
