@@ -200,7 +200,8 @@ _Ps. you'll be redirected to Loom/YT if you click on either of the thumbnail😊
   
 - [Eduwaka AI Assitant - Guidance Counsellor for JAMBITES](https://github.com/GiftySoftDev/Eduwaka_AI_Assistant)  
   EduWaka is an AI-powered web platform that helps Nigerian students, seeking admission into higher institution, simplify their   university admission journey. It provides tools to search institutions, explore courses, check eligibility, estimate fees and AI chatbot, all in one place. <br>
-  [Live Demo](https://eduwaka-ai-assistant.onrender.com/)  
+  [Live Demo](https://eduwaka.org)
+  **🔒 Private Repo:** [DM me](https://www.linkedin.com/in/gift-egbonyi) for access!  
   
 - [buyAgain e-commerce](https://github.com/GiftySoftDev/buyAgain_e-commerce)  
    buyAgain is full-stack e-commerce site with a simple admin dashboard built with MERN stack, TypeScript, Tailwindcss and Vite.  
