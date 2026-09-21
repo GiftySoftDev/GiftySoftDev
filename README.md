@@ -422,9 +422,7 @@ You can find my writings and interactive code demos across these platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   32 mins               █████████████████▓░░░░░░░   70.18 %
-Docker       12 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.05 %
-Prisma       1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
