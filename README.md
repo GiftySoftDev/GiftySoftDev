@@ -422,11 +422,11 @@ You can find my writings and interactive code demos across these platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 11 mins         ████████████████████▓░░░░   82.25 %
-JavaScript   33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-CSS          18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Markdown     8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-HTML         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript   5 hrs 19 mins         ████████████▓░░░░░░░░░░░░   50.03 %
+JavaScript   4 hrs 1 min           █████████▒░░░░░░░░░░░░░░░   37.79 %
+CSS          33 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash         22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Markdown     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
